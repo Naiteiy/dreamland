@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1420212242 source:c:\users\user\desktop\funcode\noname.zip\noname\sourcecode\icon.rc
+
+1598005829 source:c:\users\user\desktop\funcode\noname.zip\noname\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1529551256 c:\users\user\desktop\funcode\noname.zip\noname\sourcecode\header\commonapi.h
+	<windows.h>
+
+1529551256 c:\users\user\desktop\funcode\noname.zip\noname\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1598006034 source:c:\users\user\desktop\funcode\noname.zip\noname\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1420212242 source:c:\users\user\desktop\梦之境\梦之境\sourcecode\icon.rc
+
+1600345967 source:c:\users\user\desktop\梦之境\梦之境\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1529551256 c:\users\user\desktop\梦之境\梦之境\sourcecode\header\commonapi.h
+	<windows.h>
+
+1600260753 c:\users\user\desktop\梦之境\梦之境\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1600508674 source:c:\users\user\desktop\梦之境\梦之境\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
